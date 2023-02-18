@@ -15,3 +15,10 @@ $ ./scripts/000-download
 $ ./scripts/001-unzip
 ...
 ```
+
+* Zip extracted files to EPUB files.
+
+```bash
+$ ./scripts/002-zip
+...
+```

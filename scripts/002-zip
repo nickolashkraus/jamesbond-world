@@ -1,0 +1,16 @@
+#!/bin/bash
+#
+# DESCRIPTION
+# Zip extracted files to EPUB files.
+#
+# USAGE
+#
+#   002-zip
+
+for f in *.epub; do
+  dir=$(basename "${f}" .epub)
+  pushd "${dir}" >/dev/null || exit
+  # NOTE: The mimetype file must be the first file in the archive.
+  zip -rX "../$(basename "$(realpath .)").epub" mimetype $(ls | xargs echo | sed 's/mimetype//g')
+  popd >/dev/null || exit
+done
