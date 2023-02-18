@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta name="dtb:uid" content="6f6666a1-cebe-4303-bed9-73c8ee748101"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:generator" content="calibre (5.23.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Thunderball</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uzC8X9NPPaFyl4FGpFUJxv6" playOrder="1">
+      <navLabel>
+        <text>1</text>
+      </navLabel>
+      <content src="20191233-e_split_008.html"/>
+    </navPoint>
+    <navPoint id="u2gLNE3L8ZUTJGYBf25ixjA" playOrder="2">
+      <navLabel>
+        <text>2</text>
+      </navLabel>
+      <content src="20191233-e_split_009.html"/>
+    </navPoint>
+    <navPoint id="uVESRkUbg2J7XUJWKyCqEHG" playOrder="3">
+      <navLabel>
+        <text>3</text>
+      </navLabel>
+      <content src="20191233-e_split_010.html"/>
+    </navPoint>
+    <navPoint id="urj4NaYjDyUk4ztRTtLJkq9" playOrder="4">
+      <navLabel>
+        <text>4</text>
+      </navLabel>
+      <content src="20191233-e_split_011.html"/>
+    </navPoint>
+    <navPoint id="uj8YSqKko3aS7X8iZgBaUw4" playOrder="5">
+      <navLabel>
+        <text>5</text>
+      </navLabel>
+      <content src="20191233-e_split_012.html"/>
+    </navPoint>
+    <navPoint id="uzhmRoecAMmlEnavCLXz3QB" playOrder="6">
+      <navLabel>
+        <text>6</text>
+      </navLabel>
+      <content src="20191233-e_split_013.html"/>
+    </navPoint>
+    <navPoint id="u7hKmRJnyyAdOxNYIcuwJBH" playOrder="7">
+      <navLabel>
+        <text>7</text>
+      </navLabel>
+      <content src="20191233-e_split_014.html"/>
+    </navPoint>
+    <navPoint id="uitxoCP7vBFvikMAjqXTZP4" playOrder="8">
+      <navLabel>
+        <text>8</text>
+      </navLabel>
+      <content src="20191233-e_split_015.html"/>
+    </navPoint>
+    <navPoint id="uL9vaifxkBZNG6ssMCcAsK2" playOrder="9">
+      <navLabel>
+        <text>9</text>
+      </navLabel>
+      <content src="20191233-e_split_016.html"/>
+    </navPoint>
+    <navPoint id="uq3pdwTjfAigidu72OZVOxD" playOrder="10">
+      <navLabel>
+        <text>10</text>
+      </navLabel>
+      <content src="20191233-e_split_017.html"/>
+    </navPoint>
+    <navPoint id="uMXY4SkwUK2oJgun4nrVms7" playOrder="11">
+      <navLabel>
+        <text>11</text>
+      </navLabel>
+      <content src="20191233-e_split_018.html"/>
+    </navPoint>
+    <navPoint id="uOjRXvVUkgDg7jQxSdfClnD" playOrder="12">
+      <navLabel>
+        <text>12</text>
+      </navLabel>
+      <content src="20191233-e_split_019.html"/>
+    </navPoint>
+    <navPoint id="uyBwKiH4zuneobX35ct8WA7" playOrder="13">
+      <navLabel>
+        <text>13</text>
+      </navLabel>
+      <content src="20191233-e_split_020.html"/>
+    </navPoint>
+    <navPoint id="uJk2rKkuptvJg5DexN3Aoe6" playOrder="14">
+      <navLabel>
+        <text>14</text>
+      </navLabel>
+      <content src="20191233-e_split_021.html"/>
+    </navPoint>
+    <navPoint id="ulscXnfIeiqrKWveQ2lgVK4" playOrder="15">
+      <navLabel>
+        <text>15</text>
+      </navLabel>
+      <content src="20191233-e_split_022.html"/>
+    </navPoint>
+    <navPoint id="u5mAqJzLgJ4qAhrRQGVEQC5" playOrder="16">
+      <navLabel>
+        <text>16</text>
+      </navLabel>
+      <content src="20191233-e_split_023.html"/>
+    </navPoint>
+    <navPoint id="u26xR5ePlckBHSp3bYkbjV6" playOrder="17">
+      <navLabel>
+        <text>17</text>
+      </navLabel>
+      <content src="20191233-e_split_024.html"/>
+    </navPoint>
+    <navPoint id="u6acObpmshSt4EhSo6o8hOB" playOrder="18">
+      <navLabel>
+        <text>18</text>
+      </navLabel>
+      <content src="20191233-e_split_025.html"/>
+    </navPoint>
+    <navPoint id="utNyAjKBQ3hgMJDESktgLM9" playOrder="19">
+      <navLabel>
+        <text>19</text>
+      </navLabel>
+      <content src="20191233-e_split_026.html"/>
+    </navPoint>
+    <navPoint id="ubGxkTdQ5My9tMkdNbDzDv8" playOrder="20">
+      <navLabel>
+        <text>20</text>
+      </navLabel>
+      <content src="20191233-e_split_027.html"/>
+    </navPoint>
+    <navPoint id="uBs9haS2XWc7btURsV2tHzA" playOrder="21">
+      <navLabel>
+        <text>21</text>
+      </navLabel>
+      <content src="20191233-e_split_028.html"/>
+    </navPoint>
+    <navPoint id="uSXus8LK6d3pYPjxF7Hmn78" playOrder="22">
+      <navLabel>
+        <text>22</text>
+      </navLabel>
+      <content src="20191233-e_split_029.html"/>
+    </navPoint>
+    <navPoint id="uZLov8mhPWX9bR38DJNzPwD" playOrder="23">
+      <navLabel>
+        <text>23</text>
+      </navLabel>
+      <content src="20191233-e_split_030.html"/>
+    </navPoint>
+    <navPoint id="uIDVkzcFLwDNecLHB9bSXx5" playOrder="24">
+      <navLabel>
+        <text>24</text>
+      </navLabel>
+      <content src="20191233-e_split_031.html"/>
+      <navPoint id="usg2kjeRbJCLjsMW2A3Jvu9" playOrder="25">
+        <navLabel>
+          <text>TRANSCRIBER NOTES</text>
+        </navLabel>
+        <content src="20191233-e_split_033.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="07e633cf-14b6-457b-9746-7402441d21ab" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (4.23.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>The Man With the Golden Gun</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u9Z6tapY2NN5H6xFukKfbDE" playOrder="1">
+      <navLabel>
+        <text>1  “Can I Help You?”</text>
+      </navLabel>
+      <content src="20180848-e_split_006.html"/>
+    </navPoint>
+    <navPoint id="uRohWCIZwmjKnAU45oSe5iE" playOrder="2">
+      <navLabel>
+        <text>2  Attentat!</text>
+      </navLabel>
+      <content src="20180848-e_split_007.html"/>
+    </navPoint>
+    <navPoint id="utsBxoUSQ2WJutSd5ByvwAE" playOrder="3">
+      <navLabel>
+        <text>3  “Pistols” Scaramanga</text>
+      </navLabel>
+      <content src="20180848-e_split_008.html"/>
+    </navPoint>
+    <navPoint id="us2vSqBFdTF6fHgQdkkBzSG" playOrder="4">
+      <navLabel>
+        <text>4  The Stars Foretell</text>
+      </navLabel>
+      <content src="20180848-e_split_009.html"/>
+    </navPoint>
+    <navPoint id="uKVvzyPCsSCdJiLA5Xde4mD" playOrder="5">
+      <navLabel>
+        <text>5  No. 3½ Love Lane</text>
+      </navLabel>
+      <content src="20180848-e_split_010.html"/>
+    </navPoint>
+    <navPoint id="utepMpAWPrFKGUZvsRltY33" playOrder="6">
+      <navLabel>
+        <text>6  The Easy Grand</text>
+      </navLabel>
+      <content src="20180848-e_split_011.html"/>
+    </navPoint>
+    <navPoint id="u5rHvssWNrPUajVvniVF2BA" playOrder="7">
+      <navLabel>
+        <text>7  Un-real Estate</text>
+      </navLabel>
+      <content src="20180848-e_split_012.html"/>
+    </navPoint>
+    <navPoint id="uSLsoYbTWooDvzJIwvR8wJ4" playOrder="8">
+      <navLabel>
+        <text>8  Pass the Canapés!</text>
+      </navLabel>
+      <content src="20180848-e_split_013.html"/>
+    </navPoint>
+    <navPoint id="uTrmIadmbZUOy5kPPrHH6B6" playOrder="9">
+      <navLabel>
+        <text>9  Minutes of the Meeting</text>
+      </navLabel>
+      <content src="20180848-e_split_014.html"/>
+    </navPoint>
+    <navPoint id="uxUIZqfTt8N4RgzkIZKIbf4" playOrder="10">
+      <navLabel>
+        <text>10  Belly-Lick, etc.</text>
+      </navLabel>
+      <content src="20180848-e_split_015.html"/>
+    </navPoint>
+    <navPoint id="uOzxsU6vtJhihCMknBOfVvE" playOrder="11">
+      <navLabel>
+        <text>11  Ballcock, and Other, Trouble</text>
+      </navLabel>
+      <content src="20180848-e_split_016.html"/>
+    </navPoint>
+    <navPoint id="uuLE7nzQhFwspda4sMYVfO5" playOrder="12">
+      <navLabel>
+        <text>12  In a Glass, Very Darkly</text>
+      </navLabel>
+      <content src="20180848-e_split_017.html"/>
+    </navPoint>
+    <navPoint id="uoHq8kFWiQfLomeYklGPdD3" playOrder="13">
+      <navLabel>
+        <text>13  Hear the Train Blow!</text>
+      </navLabel>
+      <content src="20180848-e_split_018.html"/>
+    </navPoint>
+    <navPoint id="uaeYWinxkxNH4kw3xvY8mlG" playOrder="14">
+      <navLabel>
+        <text>14  The Great Morass</text>
+      </navLabel>
+      <content src="20180848-e_split_019.html"/>
+    </navPoint>
+    <navPoint id="uhErX3yQZYJWmZ2uZfGuIQE" playOrder="15">
+      <navLabel>
+        <text>15  Crab-meat</text>
+      </navLabel>
+      <content src="20180848-e_split_020.html"/>
+    </navPoint>
+    <navPoint id="u6IIZanzEbaaxJUmUEXqURG" playOrder="16">
+      <navLabel>
+        <text>16  The Wrapup</text>
+      </navLabel>
+      <content src="20180848-e_split_021.html"/>
+    </navPoint>
+    <navPoint id="ulD5xUwOLZcK9DTcqfPPzi4" playOrder="17">
+      <navLabel>
+        <text>17  Endit</text>
+      </navLabel>
+      <content src="20180848-e_split_022.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta name="dtb:uid" content="c6a4bf63-0f18-41bd-92a2-ff6eff38233c"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (5.23.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Live and Let Die</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uE4BxCnPPZPdrHNuD4SHSI8" playOrder="1">
+      <navLabel>
+        <text>Contents</text>
+      </navLabel>
+      <content src="20151111-e_split_002.html"/>
+    </navPoint>
+    <navPoint id="uTgHqRYlnPMJpCPu4Sdpjm6" playOrder="2">
+      <navLabel>
+        <text>1. The Red Carpet</text>
+      </navLabel>
+      <content src="20151111-e_split_003.html#calibre_toc_2"/>
+    </navPoint>
+    <navPoint id="uXTrOxOPpVSKQkmIPJFMa88" playOrder="3">
+      <navLabel>
+        <text>2. Interview with M</text>
+      </navLabel>
+      <content src="20151111-e_split_004.html"/>
+    </navPoint>
+    <navPoint id="uAappwWpZxgw7QGvzChKVl6" playOrder="4">
+      <navLabel>
+        <text>3. A Visiting-Card</text>
+      </navLabel>
+      <content src="20151111-e_split_005.html"/>
+    </navPoint>
+    <navPoint id="uzDijTyrPL5jEcB6p2VZi39" playOrder="5">
+      <navLabel>
+        <text>4. The Big Switchboard</text>
+      </navLabel>
+      <content src="20151111-e_split_006.html"/>
+    </navPoint>
+    <navPoint id="u42N9eeqQCOasZ4ljcO8v4C" playOrder="6">
+      <navLabel>
+        <text>5. Nigger Heaven</text>
+      </navLabel>
+      <content src="20151111-e_split_007.html"/>
+    </navPoint>
+    <navPoint id="u5mTYQX2O5ymSsev2DmZ24H" playOrder="7">
+      <navLabel>
+        <text>6. Table Z</text>
+      </navLabel>
+      <content src="20151111-e_split_008.html"/>
+    </navPoint>
+    <navPoint id="ujYl2bJw3362bQi6AnBy9d6" playOrder="8">
+      <navLabel>
+        <text>7. Mister Big</text>
+      </navLabel>
+      <content src="20151111-e_split_009.html"/>
+    </navPoint>
+    <navPoint id="ulDDNpR77GjI7SXApzqE7b2" playOrder="9">
+      <navLabel>
+        <text>8. No Sensayuma</text>
+      </navLabel>
+      <content src="20151111-e_split_010.html"/>
+    </navPoint>
+    <navPoint id="ujJdtCNFvOUdYKzGbYCplrC" playOrder="10">
+      <navLabel>
+        <text>9. True or False?</text>
+      </navLabel>
+      <content src="20151111-e_split_011.html"/>
+    </navPoint>
+    <navPoint id="u3HjWwSMAWIH8JUYZWP2I58" playOrder="11">
+      <navLabel>
+        <text>10. The Silver Phantom</text>
+      </navLabel>
+      <content src="20151111-e_split_012.html"/>
+    </navPoint>
+    <navPoint id="udL3rhOzElWrOFnUUysTJQ9" playOrder="12">
+      <navLabel>
+        <text>11. Allumeuse</text>
+      </navLabel>
+      <content src="20151111-e_split_013.html"/>
+    </navPoint>
+    <navPoint id="ueuAJYwMCwQnnwk75eksuIB" playOrder="13">
+      <navLabel>
+        <text>12. The Everglades</text>
+      </navLabel>
+      <content src="20151111-e_split_014.html"/>
+    </navPoint>
+    <navPoint id="ufzGMwpBC8njmYVBc9ndPN5" playOrder="14">
+      <navLabel>
+        <text>13. Death of a Pelican</text>
+      </navLabel>
+      <content src="20151111-e_split_015.html"/>
+    </navPoint>
+    <navPoint id="uPdUnoTg7r2GN9bd3kPLzOE" playOrder="15">
+      <navLabel>
+        <text>14. ‘He Disagreed with Something that Ate Him’</text>
+      </navLabel>
+      <content src="20151111-e_split_016.html"/>
+    </navPoint>
+    <navPoint id="uhFGqJGETonx8dH9eq3gssC" playOrder="16">
+      <navLabel>
+        <text>15. Midnight Among the Worms</text>
+      </navLabel>
+      <content src="20151111-e_split_017.html"/>
+    </navPoint>
+    <navPoint id="uQyws26X7vTzKnbNpOapZ44" playOrder="17">
+      <navLabel>
+        <text>16. The Jamaica Version</text>
+      </navLabel>
+      <content src="20151111-e_split_018.html"/>
+    </navPoint>
+    <navPoint id="uzq6ZU8uHmoN2pIPJPkXfv9" playOrder="18">
+      <navLabel>
+        <text>17. The Undertaker’s Wind</text>
+      </navLabel>
+      <content src="20151111-e_split_019.html"/>
+    </navPoint>
+    <navPoint id="uBielxVoFgO9uHCqquJgzsD" playOrder="19">
+      <navLabel>
+        <text>18. Beau Desert</text>
+      </navLabel>
+      <content src="20151111-e_split_020.html"/>
+    </navPoint>
+    <navPoint id="uqaDHBD2bexMFsQvkV5KTD2" playOrder="20">
+      <navLabel>
+        <text>19. Valley of Shadows</text>
+      </navLabel>
+      <content src="20151111-e_split_021.html"/>
+    </navPoint>
+    <navPoint id="usCu2yOYv6lNujQKVyNd3eF" playOrder="21">
+      <navLabel>
+        <text>20. Bloody Morgan’s Cave</text>
+      </navLabel>
+      <content src="20151111-e_split_022.html"/>
+    </navPoint>
+    <navPoint id="uGR5ybguCNkatHbjX9IFxhF" playOrder="22">
+      <navLabel>
+        <text>21. ‘Good Night to You Both’</text>
+      </navLabel>
+      <content src="20151111-e_split_023.html"/>
+    </navPoint>
+    <navPoint id="uByEidpTbu2Mp5GK6eHLIA5" playOrder="23">
+      <navLabel>
+        <text>22. Terror by Sea</text>
+      </navLabel>
+      <content src="20151111-e_split_024.html"/>
+    </navPoint>
+    <navPoint id="uayhXXPG5g7f39GGx2fYPF4" playOrder="24">
+      <navLabel>
+        <text>23. Passionate Leave</text>
+      </navLabel>
+      <content src="20151111-e_split_025.html"/>
+    </navPoint>
+    <navPoint id="umikZZ5YHhP3ikKLd59brLC" playOrder="25">
+      <navLabel>
+        <text>TRANSCRIBER NOTES</text>
+      </navLabel>
+      <content src="20151111-e_split_026.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

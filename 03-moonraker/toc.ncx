@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta name="dtb:uid" content="7dc2ec59-118a-48ff-911c-243978a99282"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (5.23.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Moonraker</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="utyoK2mmlDf9jG8wRzrrk4E" playOrder="1">
+      <navLabel>
+        <text>CONTENTS</text>
+      </navLabel>
+      <content src="20150804-e_split_002.html"/>
+    </navPoint>
+    <navPoint id="uqFO4coZhMfeIDqxkmTCUzB" playOrder="2">
+      <navLabel>
+        <text>PART ONE: MONDAY</text>
+      </navLabel>
+      <content src="20150804-e_split_003.html"/>
+    </navPoint>
+    <navPoint id="uluK3TYQ4VN9cUjZqfIdyt8" playOrder="3">
+      <navLabel>
+        <text>CHAPTER I SECRET PAPER-WORK</text>
+      </navLabel>
+      <content src="20150804-e_split_003.html#calibre_toc_3"/>
+    </navPoint>
+    <navPoint id="uYmECM6ubXfOS3VWa9MGNaG" playOrder="4">
+      <navLabel>
+        <text>CHAPTER II THE COLUMBITE KING</text>
+      </navLabel>
+      <content src="20150804-e_split_004.html"/>
+    </navPoint>
+    <navPoint id="u4GXsYKlCmmHYQ7NUUzTu8H" playOrder="5">
+      <navLabel>
+        <text>CHAPTER III ‘BELLY STRIPPERS’, ETC.</text>
+      </navLabel>
+      <content src="20150804-e_split_005.html"/>
+    </navPoint>
+    <navPoint id="uklltnMWFqPCvCdK2LPjyZF" playOrder="6">
+      <navLabel>
+        <text>CHAPTER IV THE ‘SHINER’</text>
+      </navLabel>
+      <content src="20150804-e_split_006.html"/>
+    </navPoint>
+    <navPoint id="uuOUfW6gcPLlKEGD9D6SpbD" playOrder="7">
+      <navLabel>
+        <text>CHAPTER V DINNER AT BLADES</text>
+      </navLabel>
+      <content src="20150804-e_split_007.html"/>
+    </navPoint>
+    <navPoint id="uFm5O7jJ4KgU9Am7JQEHK43" playOrder="8">
+      <navLabel>
+        <text>CHAPTER VI CARDS WITH A STRANGER</text>
+      </navLabel>
+      <content src="20150804-e_split_008.html"/>
+    </navPoint>
+    <navPoint id="uyVDx7E6pKdeEFtI2eTP5z5" playOrder="9">
+      <navLabel>
+        <text>CHAPTER VII THE QUICKNESS OF THE HAND</text>
+      </navLabel>
+      <content src="20150804-e_split_009.html"/>
+    </navPoint>
+    <navPoint id="uvdYHoBMc8tGUoemaxf3ykA" playOrder="10">
+      <navLabel>
+        <text>PART TWO: TUESDAY, WEDNESDAY</text>
+      </navLabel>
+      <content src="20150804-e_split_010.html"/>
+    </navPoint>
+    <navPoint id="uPEsgieOYGxvEB4deMz5tq7" playOrder="11">
+      <navLabel>
+        <text>CHAPTER VIII THE RED TELEPHONE</text>
+      </navLabel>
+      <content src="20150804-e_split_010.html#calibre_toc_11"/>
+    </navPoint>
+    <navPoint id="upN34aHCv8tKsE4Pj89EPoB" playOrder="12">
+      <navLabel>
+        <text>CHAPTER IX TAKE IT FROM HERE</text>
+      </navLabel>
+      <content src="20150804-e_split_011.html"/>
+    </navPoint>
+    <navPoint id="u23OvMEAGFNZ4yhrnqQ2iX6" playOrder="13">
+      <navLabel>
+        <text>CHAPTER X SPECIAL BRANCH AGENT</text>
+      </navLabel>
+      <content src="20150804-e_split_012.html"/>
+    </navPoint>
+    <navPoint id="uCLvASq99UyklOZTiOButl2" playOrder="14">
+      <navLabel>
+        <text>CHAPTER XI POLICEWOMAN BRAND</text>
+      </navLabel>
+      <content src="20150804-e_split_013.html"/>
+    </navPoint>
+    <navPoint id="utCIeQKRl8GGiuVqSRR4uLA" playOrder="15">
+      <navLabel>
+        <text>CHAPTER XII THE MOONRAKER</text>
+      </navLabel>
+      <content src="20150804-e_split_014.html"/>
+    </navPoint>
+    <navPoint id="ugEZRmAXlM7ZkrtJhNkxYiG" playOrder="16">
+      <navLabel>
+        <text>CHAPTER XIII DEAD RECKONING</text>
+      </navLabel>
+      <content src="20150804-e_split_015.html"/>
+    </navPoint>
+    <navPoint id="u2MekAtU2hZXuigPdXcZMbB" playOrder="17">
+      <navLabel>
+        <text>CHAPTER XIV ITCHING FINGERS</text>
+      </navLabel>
+      <content src="20150804-e_split_016.html"/>
+    </navPoint>
+    <navPoint id="uYrRYl8hya9fnfPKYWqFKv5" playOrder="18">
+      <navLabel>
+        <text>CHAPTER XV ROUGH JUSTICE</text>
+      </navLabel>
+      <content src="20150804-e_split_017.html"/>
+    </navPoint>
+    <navPoint id="u23C3iOP7jtnfgK9H3RQeK3" playOrder="19">
+      <navLabel>
+        <text>CHAPTER XVI A GOLDEN DAY</text>
+      </navLabel>
+      <content src="20150804-e_split_018.html"/>
+    </navPoint>
+    <navPoint id="u4dJC2cLIq5JgLwnPTekcp9" playOrder="20">
+      <navLabel>
+        <text>CHAPTER XVII WILD SURMISES</text>
+      </navLabel>
+      <content src="20150804-e_split_019.html"/>
+    </navPoint>
+    <navPoint id="u3NPEYNHc3oVk6Uz8Gz3L2B" playOrder="21">
+      <navLabel>
+        <text>PART THREE: THURSDAY, FRIDAY</text>
+      </navLabel>
+      <content src="20150804-e_split_020.html"/>
+    </navPoint>
+    <navPoint id="uarz9RBRRq7TyMpIvOxfSm9" playOrder="22">
+      <navLabel>
+        <text>CHAPTER XVIII BENEATH THE FLAT STONE</text>
+      </navLabel>
+      <content src="20150804-e_split_020.html#calibre_toc_22"/>
+    </navPoint>
+    <navPoint id="uKpn3UlAXamVjtv5gwRvGE8" playOrder="23">
+      <navLabel>
+        <text>CHAPTER XIX MISSING PERSON</text>
+      </navLabel>
+      <content src="20150804-e_split_021.html"/>
+    </navPoint>
+    <navPoint id="utSQhQdlBNVOGbczamBDLh2" playOrder="24">
+      <navLabel>
+        <text>CHAPTER XX DRAX’S GAMBIT</text>
+      </navLabel>
+      <content src="20150804-e_split_022.html"/>
+    </navPoint>
+    <navPoint id="uYyYLHSzqW9hxmfnbJZssH8" playOrder="25">
+      <navLabel>
+        <text>CHAPTER XXI ‘THE PERSUADER’</text>
+      </navLabel>
+      <content src="20150804-e_split_023.html"/>
+    </navPoint>
+    <navPoint id="uc7pTMTMYWDQsBdIONFxyTE" playOrder="26">
+      <navLabel>
+        <text>CHAPTER XXII PANDORA’S BOX</text>
+      </navLabel>
+      <content src="20150804-e_split_024.html"/>
+    </navPoint>
+    <navPoint id="uUJd9qevgR5nTQmUvMxYPgB" playOrder="27">
+      <navLabel>
+        <text>CHAPTER XXIII ZERO MINUS</text>
+      </navLabel>
+      <content src="20150804-e_split_025.html"/>
+    </navPoint>
+    <navPoint id="uWGI75eU74D7O2IuXKgChvF" playOrder="28">
+      <navLabel>
+        <text>CHAPTER XXIV ZERO</text>
+      </navLabel>
+      <content src="20150804-e_split_026.html"/>
+    </navPoint>
+    <navPoint id="uyGEP53vSiwLemYnV2FIUf2" playOrder="29">
+      <navLabel>
+        <text>CHAPTER XXV ZERO PLUS</text>
+      </navLabel>
+      <content src="20150804-e_split_027.html"/>
+    </navPoint>
+    <navPoint id="u5LvWpkig9Gtf4cWzIbvaz5" playOrder="30">
+      <navLabel>
+        <text>TRANSCRIBER NOTES</text>
+      </navLabel>
+      <content src="20150804-e_split_028.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

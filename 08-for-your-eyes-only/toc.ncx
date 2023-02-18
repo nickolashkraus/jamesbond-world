@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="124557aa-0126-4672-aece-e452071efaff" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (4.23.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>For Your Eyes Only</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uYHBuZUg7ifDKIZbTaLZaeC" playOrder="1">
+      <navLabel>
+        <text>FROM A VIEW TO A KILL</text>
+      </navLabel>
+      <content src="20170435-e_split_007.html"/>
+    </navPoint>
+    <navPoint id="ud8kaAcyhStGSOSjBnvwHIF" playOrder="2">
+      <navLabel>
+        <text>FOR YOUR EYES ONLY</text>
+      </navLabel>
+      <content src="20170435-e_split_008.html"/>
+    </navPoint>
+    <navPoint id="uD39MfVJIjOqiUAFotc6pn2" playOrder="3">
+      <navLabel>
+        <text>QUANTUM OF SOLACE</text>
+      </navLabel>
+      <content src="20170435-e_split_009.html"/>
+    </navPoint>
+    <navPoint id="ueaFfvNVxhBbBHIjSVtjmz4" playOrder="4">
+      <navLabel>
+        <text>RISICO</text>
+      </navLabel>
+      <content src="20170435-e_split_010.html"/>
+    </navPoint>
+    <navPoint id="uRWYPmYYxRQCBeDHVKw9BH3" playOrder="5">
+      <navLabel>
+        <text>THE HILDEBRAND RARITY</text>
+      </navLabel>
+      <content src="20170435-e_split_011.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,242 @@
+.blockquote {
+    display: block;
+    text-align: left;
+    margin: 0.5em 2em
+    }
+.blockquoter {
+    display: block;
+    margin: 1em 2em
+    }
+.bold {
+    font-weight: bold
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: left;
+    margin: 0 5pt
+    }
+.calibre1 {
+    height: auto;
+    width: 100px
+    }
+.calibre2 {
+    display: table-row;
+    vertical-align: middle
+    }
+.calibre3 {
+    font-size: 0.75em
+    }
+.calibre4 {
+    height: auto;
+    width: 60px
+    }
+.calibre5 {
+    display: table-column-group
+    }
+.calibre6 {
+    display: table-column;
+    width: 10em
+    }
+.calibre7 {
+    display: table-column;
+    width: 1.5em
+    }
+.calibre8 {
+    display: block;
+    font-size: 1em;
+    font-weight: normal;
+    line-height: 200%;
+    text-align: center;
+    margin: 2em auto 1em
+    }
+.center {
+    border-collapse: collapse;
+    border-spacing: 2px;
+    display: table;
+    page-break-inside: avoid;
+    text-indent: 0;
+    margin: 0.5em auto;
+    padding: 3px
+    }
+.center1 {
+    border-collapse: collapse;
+    border-spacing: 2px;
+    display: table;
+    font-size: 0.75em;
+    page-break-inside: avoid;
+    text-indent: 0;
+    margin: 0.5em auto;
+    padding: 3px
+    }
+.dropcap {
+    clear: left;
+    float: left;
+    font-size: 200%;
+    line-height: 1em;
+    margin: 0 0.1em 0 0;
+    padding: 0
+    }
+.figcenter {
+    display: block;
+    page-break-inside: avoid;
+    text-align: center;
+    margin: 1em auto
+    }
+.gesp {
+    letter-spacing: 0.2em
+    }
+.it {
+    font-style: italic
+    }
+.lgc {
+    display: block;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em
+    }
+.lgc1 {
+    display: block;
+    margin-bottom: 0.5em;
+    margin-top: 2em
+    }
+.lgc2 {
+    display: block;
+    margin-bottom: 0.5em;
+    margin-top: 5em
+    }
+.lgl {
+    display: block
+    }
+.line {
+    display: block;
+    text-align: left;
+    text-indent: -17px;
+    margin: 0 0 0 17px
+    }
+.line1 {
+    display: block;
+    font-size: 1.41667em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 1em 0 0
+    }
+.line2 {
+    display: block;
+    font-size: 1.41667em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0
+    }
+.line3 {
+    display: block;
+    text-align: center;
+    text-indent: 0;
+    margin: 0
+    }
+.line4 {
+    display: block;
+    font-size: 0.75em;
+    text-align: center;
+    text-indent: 0;
+    margin: 0
+    }
+.line5 {
+    display: block;
+    text-align: center;
+    text-indent: 0;
+    margin: 15em 0 2em
+    }
+.line6 {
+    display: block;
+    font-style: italic;
+    text-align: center;
+    text-indent: 0;
+    margin: 0
+    }
+.line7 {
+    display: block;
+    font-size: 0.58333em;
+    text-align: center;
+    text-indent: 0;
+    margin: 0
+    }
+.line8 {
+    display: block;
+    font-size: 0.75em;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 0 0.5em
+    }
+.line9 {
+    display: block;
+    font-size: 1.125em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 4em 0 2em
+    }
+.nobreak {
+    display: block;
+    font-size: 1em;
+    font-weight: normal;
+    line-height: 200%;
+    page-break-before: avoid;
+    text-align: center;
+    margin: 2em auto 1em
+    }
+.noindent {
+    display: block;
+    text-align: left;
+    text-indent: 0;
+    margin: 0
+    }
+.pbba {
+    display: block
+    }
+.pindent {
+    display: block;
+    text-align: left;
+    text-indent: 1.5em;
+    margin: 0
+    }
+.pindent1 {
+    display: block;
+    font-size: 0.75em;
+    text-align: left;
+    text-indent: 1.5em;
+    margin: 0
+    }
+.tab1c {
+    display: table-cell;
+    text-align: center;
+    vertical-align: top;
+    padding: 3px 5px
+    }
+.tab2c {
+    display: table-cell;
+    text-align: right;
+    vertical-align: top;
+    padding: 0 5px
+    }
+.tab2c1 {
+    display: table-cell;
+    text-align: left;
+    vertical-align: top;
+    padding: 0 5px
+    }
+.tbk {
+    color: gray;
+    display: block;
+    height: 2px;
+    text-align: center;
+    width: 30%;
+    margin: 1em 35%;
+    border-top: currentColor none medium;
+    border-right: currentColor none medium;
+    border-bottom: white solid 1px;
+    border-left: currentColor none medium
+    }

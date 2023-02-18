@@ -1,0 +1,252 @@
+.blockquote-right90percent {
+    display: block;
+    text-align: right;
+    width: 90%;
+    margin: 1em 0 1em auto
+    }
+.blockquote-right95percent {
+    display: block;
+    text-align: right;
+    width: 95%;
+    margin: 1em 0 1em auto
+    }
+.bold {
+    font-weight: bold
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: left;
+    margin: 0 5pt
+    }
+.calibre1 {
+    height: auto;
+    width: 50px
+    }
+.calibre2 {
+    font-size: 0.75em
+    }
+.calibre3 {
+    display: table-column-group
+    }
+.calibre4 {
+    display: table-column;
+    width: 1.5em
+    }
+.calibre5 {
+    display: table-column;
+    width: 20em
+    }
+.calibre6 {
+    display: table-column;
+    width: 2.5em
+    }
+.calibre7 {
+    display: table-row;
+    vertical-align: middle
+    }
+.calibre8 {
+    font-size: 1.88889em;
+    line-height: 1.2
+    }
+.calibre9 {
+    display: block;
+    font-size: 1.41667em;
+    font-weight: normal;
+    line-height: 150%;
+    text-align: center;
+    margin: 2em auto 1em
+    }
+.center {
+    border-collapse: collapse;
+    border-spacing: 2px;
+    display: table;
+    font-size: 0.75em;
+    page-break-inside: avoid;
+    text-indent: 0;
+    margin: 0.5em auto;
+    padding: 3px
+    }
+.figcenter {
+    display: block;
+    page-break-inside: avoid;
+    text-align: center;
+    margin: 1em auto
+    }
+.gesp {
+    letter-spacing: 0.2em
+    }
+.hang {
+    display: block;
+    padding-left: 1.5em;
+    text-align: left;
+    text-indent: -1.5em;
+    margin: 0
+    }
+.it {
+    font-style: italic
+    }
+.it1 {
+    font-style: italic;
+    line-height: 1.2
+    }
+.lgc {
+    display: block;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em
+    }
+.lgc1 {
+    display: block;
+    margin-bottom: 0.5em;
+    margin-top: 4em
+    }
+.lgc2 {
+    display: block;
+    margin-bottom: 0.5em;
+    margin-top: 10em
+    }
+.lgl {
+    display: block
+    }
+.line {
+    display: block;
+    text-align: left;
+    text-indent: -17px;
+    margin: 0 0 0 17px
+    }
+.line1 {
+    display: block;
+    font-size: 2em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 1em 0 0
+    }
+.line2 {
+    display: block;
+    font-size: 2em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0
+    }
+.line3 {
+    display: block;
+    text-align: center;
+    text-indent: 0;
+    margin: 0
+    }
+.line4 {
+    display: block;
+    text-align: center;
+    text-indent: 0;
+    margin: 10em 0 2em
+    }
+.line5 {
+    display: block;
+    font-size: 0.75em;
+    text-align: center;
+    text-indent: 0;
+    margin: 0
+    }
+.line6 {
+    display: block;
+    font-size: 0.75em;
+    font-style: italic;
+    text-align: center;
+    text-indent: 0;
+    margin: 0
+    }
+.line7 {
+    display: block;
+    text-align: left;
+    text-indent: 0;
+    margin: 0
+    }
+.line8 {
+    display: block;
+    text-align: right;
+    text-indent: 0;
+    margin: 0 2em 0 0
+    }
+.line9 {
+    display: block;
+    text-align: right;
+    text-indent: 0;
+    margin: 0 1em 0 0
+    }
+.line10 {
+    display: block;
+    text-align: center;
+    text-indent: 0;
+    margin: 1em 0
+    }
+.line11 {
+    display: block;
+    text-align: right;
+    text-indent: 0;
+    margin: 0 8em 0 0
+    }
+.line12 {
+    display: block;
+    text-align: right;
+    text-indent: 0;
+    margin: 0 4em 0 0
+    }
+.line13 {
+    display: block;
+    font-size: 1.125em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 4em 0 2em
+    }
+.literal {
+    display: inline-block;
+    text-align: left
+    }
+.literal-container {
+    display: block;
+    text-align: center;
+    margin: 10em 0 0.5em
+    }
+.pbba {
+    display: block
+    }
+.pindent {
+    display: block;
+    text-align: left;
+    text-indent: 1.5em;
+    margin: 0.25em 0 0
+    }
+.sc {
+    font-variant: small-caps
+    }
+.tab1c {
+    display: table-cell;
+    text-align: right;
+    vertical-align: top;
+    padding: 3px 5px
+    }
+.tab1c1 {
+    display: table-cell;
+    text-align: left;
+    text-indent: -24px;
+    vertical-align: top;
+    padding: 3px 5px 3px 29px
+    }
+.tab1c2 {
+    display: table-cell;
+    text-align: right;
+    vertical-align: bottom;
+    padding: 3px 5px
+    }
+.tab1c3 {
+    display: table-cell;
+    text-align: center;
+    vertical-align: top;
+    padding: 3px 5px;
+    border-right: black solid 0
+    }

@@ -1,0 +1,239 @@
+.blockquote {
+    display: block;
+    text-align: left;
+    margin: 0.5em 2em
+    }
+.blockquote60percent {
+    display: block;
+    width: 60%;
+    margin: 1em auto
+    }
+.blockquoter {
+    display: block;
+    margin: 1em 2em
+    }
+.bold {
+    font-weight: bold
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    max-width: 40em;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: left;
+    margin: 0 5pt
+    }
+.calibre1 {
+    height: auto;
+    width: 50px
+    }
+.calibre2 {
+    font-size: 0.75em
+    }
+.calibre3 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    padding-top: 2em;
+    text-align: left;
+    margin: 2em auto 1em
+    }
+.calibre4 {
+    font-size: 1em
+    }
+.calibre5 {
+    font-size: 0.91667em
+    }
+.dropcap {
+    clear: left;
+    float: none;
+    font-size: 1.83333em;
+    line-height: 1em;
+    padding: 0;
+    margin: -0.2em 0 0
+    }
+.figright {
+    clear: right;
+    display: block;
+    float: right;
+    text-align: center;
+    padding: 0;
+    margin: 1em 0 1em 1em
+    }
+.gesp {
+    letter-spacing: 0.2em
+    }
+.hang {
+    display: block;
+    padding-left: 1.5em;
+    text-align: left;
+    text-indent: -1.5em;
+    margin: 0
+    }
+.it {
+    font-style: italic
+    }
+.lgc {
+    display: block;
+    margin-bottom: 1em;
+    margin-top: 1em
+    }
+.lgc1 {
+    display: block;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em
+    }
+.lgl {
+    display: block
+    }
+.lgr {
+    display: block;
+    margin-top: 1em
+    }
+.line {
+    display: block;
+    text-align: left;
+    text-indent: -17px;
+    margin: 0 0 0 17px
+    }
+.line1 {
+    display: block;
+    font-size: 2em;
+    font-style: italic;
+    text-align: right;
+    text-indent: 0;
+    margin: 0
+    }
+.line2 {
+    display: block;
+    text-align: right;
+    text-indent: 0;
+    margin: 0
+    }
+.line3 {
+    display: block;
+    font-size: 2em;
+    text-align: right;
+    text-indent: 0;
+    margin: 0 5em 0 0
+    }
+.line4 {
+    display: block;
+    font-size: 1.83333em;
+    font-style: italic;
+    text-align: right;
+    text-indent: 0;
+    margin: 0 3em 0 0
+    }
+.line5 {
+    display: block;
+    font-size: 2em;
+    text-align: right;
+    text-indent: 0;
+    margin: 0
+    }
+.line6 {
+    display: block;
+    font-size: 0.75em;
+    text-align: right;
+    text-indent: 0;
+    margin: 6em 0 0
+    }
+.line7 {
+    display: block;
+    font-size: 0.75em;
+    text-align: right;
+    text-indent: 0;
+    margin: 0
+    }
+.line8 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: right;
+    text-indent: 0;
+    margin: 1em 0
+    }
+.line9 {
+    display: block;
+    text-align: left;
+    text-indent: 0;
+    margin: 0
+    }
+.line10 {
+    display: block;
+    font-size: 1.125em;
+    text-align: left;
+    text-indent: 0;
+    margin: 0
+    }
+.line11 {
+    display: block;
+    text-align: center;
+    text-indent: 0;
+    margin: 0
+    }
+.line12 {
+    display: block;
+    font-size: 0.75em;
+    text-align: center;
+    text-indent: 0;
+    margin: 0
+    }
+.line13 {
+    display: block;
+    font-size: 0.75em;
+    text-align: center;
+    text-indent: 0;
+    margin: 0.3em 0 0.2em
+    }
+.line14 {
+    display: block;
+    font-size: 1.125em;
+    text-align: center;
+    text-indent: 0;
+    margin: 4em 0 2em
+    }
+.literal {
+    display: inline-block;
+    text-align: left
+    }
+.literal-container {
+    display: block;
+    text-align: center;
+    margin: 2em 0 0.5em
+    }
+.literal-container1 {
+    display: block;
+    text-align: center;
+    margin: 0.5em 0
+    }
+.pbba {
+    display: block
+    }
+.pindent {
+    display: block;
+    text-align: left;
+    text-indent: 1.5em;
+    margin: 0.25em 0 0
+    }
+.pindent1 {
+    display: block;
+    font-size: 0.75em;
+    text-align: left;
+    text-indent: 1.5em;
+    margin: 0.25em 0 0
+    }
+.tbk {
+    color: gray;
+    display: block;
+    height: 2px;
+    text-align: center;
+    width: 30%;
+    margin: 1em 35% 0.5em;
+    border-top: currentColor none medium;
+    border-right: currentColor none medium;
+    border-bottom: white solid 1px;
+    border-left: currentColor none medium
+    }

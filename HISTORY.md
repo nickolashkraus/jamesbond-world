@@ -8,3 +8,10 @@
 $ ./script/000-download
 ...
 ```
+
+* Unzip original EPUB files.
+
+```bash
+$ ./script/001-unzip
+...
+```

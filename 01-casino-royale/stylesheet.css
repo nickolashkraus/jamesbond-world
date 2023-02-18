@@ -1,0 +1,168 @@
+.blockquote {
+    display: block;
+    text-align: left;
+    margin: 1em 2em
+    }
+.bold {
+    font-weight: bold
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: left;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block;
+    font-size: 1.125em;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: center;
+    margin: 2em auto 1em
+    }
+.calibre2 {
+    display: table-row;
+    vertical-align: middle
+    }
+.calibre3 {
+    line-height: 1.2
+    }
+.calibre4 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre5 {
+    display: block;
+    font-family: monospace;
+    white-space: pre-wrap;
+    margin: 1em 0
+    }
+.center {
+    border-collapse: collapse;
+    border-spacing: 2px;
+    display: table;
+    page-break-inside: avoid;
+    text-indent: 0;
+    margin: 0.5em auto;
+    padding: 3px
+    }
+.hang {
+    display: block;
+    padding-left: 1.5em;
+    text-align: left;
+    text-indent: -1.5em;
+    margin: 0
+    }
+.it {
+    font-style: italic
+    }
+.it1 {
+    font-style: italic;
+    line-height: 1.2
+    }
+.lgc {
+    display: block;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em
+    }
+.lgl {
+    display: block
+    }
+.line {
+    display: block;
+    text-align: left;
+    text-indent: -17px;
+    margin: 0 0 0 17px
+    }
+.line1 {
+    display: block;
+    font-size: 2em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0
+    }
+.line2 {
+    display: block;
+    text-align: center;
+    text-indent: 0;
+    margin: 0
+    }
+.line3 {
+    display: block;
+    font-size: 1.41667em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0
+    }
+.line4 {
+    display: block;
+    font-size: 2em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 3em 0 2em
+    }
+.line5 {
+    display: block;
+    text-align: right;
+    text-indent: 0;
+    margin: 0 1em 0 0
+    }
+.nobreak {
+    display: block;
+    font-size: 1.125em;
+    font-weight: normal;
+    line-height: 1.2;
+    page-break-before: avoid;
+    text-align: center;
+    margin: 2em auto 1em
+    }
+.noindent {
+    display: block;
+    text-align: left;
+    text-indent: 0;
+    margin: 0
+    }
+.pbba {
+    display: block
+    }
+.pindent {
+    display: block;
+    text-align: left;
+    text-indent: 1.5em;
+    margin: 0
+    }
+.sc {
+    font-variant: small-caps
+    }
+.sub-head {
+    font-size: 1em;
+    line-height: 1.2
+    }
+.tab1c {
+    display: table-cell;
+    text-align: right;
+    vertical-align: top;
+    padding: 2px 5px
+    }
+.tab1c1 {
+    display: table-cell;
+    text-align: left;
+    vertical-align: top;
+    padding: 2px 5px
+    }
+.tbk {
+    color: gray;
+    display: block;
+    height: 2px;
+    width: 30%;
+    margin: 0.5em 35%;
+    border-top: currentColor none medium;
+    border-right: currentColor none medium;
+    border-bottom: black solid 1px;
+    border-left: currentColor none medium
+    }

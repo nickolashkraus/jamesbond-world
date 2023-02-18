@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="41ac265a-b3b8-4369-8704-a4f59367f9d2" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (4.23.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>The Spy Who Loved Me</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="ul6aTs2x5pH7eNczeZGAuJ6" playOrder="1">
+      <navLabel>
+        <text>Contents</text>
+      </navLabel>
+      <content src="20151114-e_split_002.html"/>
+    </navPoint>
+    <navPoint id="uPgZvPXesyC9VexXoCkI762" playOrder="2">
+      <navLabel>
+        <text>PART ONE Me</text>
+      </navLabel>
+      <content src="20151114-e_split_003.html#calibre_toc_2"/>
+      <navPoint id="u4GjNnBjrTFouA2rptGcePA" playOrder="3">
+        <navLabel>
+          <text>1. Scaredy Cat</text>
+        </navLabel>
+        <content src="20151114-e_split_004.html"/>
+      </navPoint>
+      <navPoint id="uUVtNZBqkhqQokL5ceWEJiB" playOrder="4">
+        <navLabel>
+          <text>2. Dear Dead Days</text>
+        </navLabel>
+        <content src="20151114-e_split_005.html"/>
+      </navPoint>
+      <navPoint id="uk9Icmw7xjAxaxTkHz8UN27" playOrder="5">
+        <navLabel>
+          <text>3. Spring’s Awakening</text>
+        </navLabel>
+        <content src="20151114-e_split_006.html"/>
+      </navPoint>
+      <navPoint id="ugPNDO7yTTK86XQMfRppbUC" playOrder="6">
+        <navLabel>
+          <text>4. ‘Dear Viv’</text>
+        </navLabel>
+        <content src="20151114-e_split_007.html"/>
+      </navPoint>
+      <navPoint id="uJ2cTucrFK2yvuvoSjBaKP5" playOrder="7">
+        <navLabel>
+          <text>5. A Bird with a Wing Down</text>
+        </navLabel>
+        <content src="20151114-e_split_008.html"/>
+      </navPoint>
+      <navPoint id="usJ35IA2oJkLmAlltLNz7YC" playOrder="8">
+        <navLabel>
+          <text>6. Go West, Young Woman</text>
+        </navLabel>
+        <content src="20151114-e_split_009.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="uK8yYejGy6yttauHsqe34s6" playOrder="9">
+      <navLabel>
+        <text>PART TWO Them</text>
+      </navLabel>
+      <content src="20151114-e_split_010.html"/>
+      <navPoint id="uqIfnmW4jmulVKqLP3ZNXXD" playOrder="10">
+        <navLabel>
+          <text>7. ‘Come into My Parlour . . .’</text>
+        </navLabel>
+        <content src="20151114-e_split_011.html"/>
+      </navPoint>
+      <navPoint id="u6CpsJpi9LiELlIEDB4g3I6" playOrder="11">
+        <navLabel>
+          <text>8. Dynamite from Nightmare-land</text>
+        </navLabel>
+        <content src="20151114-e_split_012.html"/>
+      </navPoint>
+      <navPoint id="uRBZDfz8ZPkMzcaQ2fmcDHF" playOrder="12">
+        <navLabel>
+          <text>9. Then I Began to Scream</text>
+        </navLabel>
+        <content src="20151114-e_split_013.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="uVmIunVzfDHOf3GnoH2KPC4" playOrder="13">
+      <navLabel>
+        <text>PART THREE Him</text>
+      </navLabel>
+      <content src="20151114-e_split_014.html"/>
+      <navPoint id="us7pxxR6fJKhncKgSyV4oZB" playOrder="14">
+        <navLabel>
+          <text>10. Whassat?</text>
+        </navLabel>
+        <content src="20151114-e_split_015.html"/>
+      </navPoint>
+      <navPoint id="umptccHZWEHYldsiUWcBuj9" playOrder="15">
+        <navLabel>
+          <text>11. Bedtime Story</text>
+        </navLabel>
+        <content src="20151114-e_split_016.html"/>
+      </navPoint>
+      <navPoint id="ugxSxUNswWsl9DJhTaMyjeE" playOrder="16">
+        <navLabel>
+          <text>12. To Sleep—Perchance to Die!</text>
+        </navLabel>
+        <content src="20151114-e_split_017.html"/>
+      </navPoint>
+      <navPoint id="uvxpgRlnDEfnqFj4GApCZCC" playOrder="17">
+        <navLabel>
+          <text>13. The Crash of Guns</text>
+        </navLabel>
+        <content src="20151114-e_split_018.html"/>
+      </navPoint>
+      <navPoint id="uLZdLV6tWLSlgYS6iHSlq7E" playOrder="18">
+        <navLabel>
+          <text>14. Bimbo</text>
+        </navLabel>
+        <content src="20151114-e_split_019.html"/>
+      </navPoint>
+      <navPoint id="uWt8o9d7KXGuCietrhRNbwC" playOrder="19">
+        <navLabel>
+          <text>15. The Writing on My Heart</text>
+        </navLabel>
+        <content src="20151114-e_split_020.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="uL95Qif3AId9KjjG6paj8tA" playOrder="20">
+      <navLabel>
+        <text>TRANSCRIBER NOTES</text>
+      </navLabel>
+      <content src="20151114-e_split_021.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

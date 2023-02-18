@@ -1,0 +1,14 @@
+#!/bin/bash
+#
+# DESCRIPTION
+# Unzip original EPUB files.
+#
+# USAGE
+#
+#   001-unzip
+
+for f in *.epub; do
+  dir=$(basename "${f}" .epub)
+  rm -rf "${dir}"
+  unzip "${f}" -d "${dir}"
+done

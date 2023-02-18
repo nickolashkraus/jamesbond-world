@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta name="dtb:uid" content="846a8eea-d615-4321-916f-3c495636f895"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (5.23.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Diamonds are Forever</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uvSXb44dRJgAtwqytv9VLSE" playOrder="1">
+      <navLabel>
+        <text>1 THE PIPELINE OPENS</text>
+      </navLabel>
+      <content src="20170328-e_split_004.html"/>
+    </navPoint>
+    <navPoint id="uddFQcdTBTRWAHBAvS9oByD" playOrder="2">
+      <navLabel>
+        <text>2 GEM QUALITY</text>
+      </navLabel>
+      <content src="20170328-e_split_004.html#calibre_toc_2"/>
+    </navPoint>
+    <navPoint id="uQTP5oioYRn9kux2stnONe6" playOrder="3">
+      <navLabel>
+        <text>3 HOT ICE</text>
+      </navLabel>
+      <content src="20170328-e_split_004.html#calibre_toc_3"/>
+    </navPoint>
+    <navPoint id="u3oUera8NoqZHjq7VNHMNEG" playOrder="4">
+      <navLabel>
+        <text>4 “WHAT GOES ON AROUND HERE?”</text>
+      </navLabel>
+      <content src="20170328-e_split_004.html#calibre_toc_4"/>
+    </navPoint>
+    <navPoint id="uiPawxrNbJFkbwaVqHM8fSE" playOrder="5">
+      <navLabel>
+        <text>5 “FEUILLES MORTES”</text>
+      </navLabel>
+      <content src="20170328-e_split_004.html#calibre_toc_5"/>
+    </navPoint>
+    <navPoint id="u9SKzMrFnVoS7TzJe6xetLB" playOrder="6">
+      <navLabel>
+        <text>6 IN TRANSIT</text>
+      </navLabel>
+      <content src="20170328-e_split_004.html#calibre_toc_6"/>
+    </navPoint>
+    <navPoint id="uQdPWrT2AKUYQOdQ5zIgcL7" playOrder="7">
+      <navLabel>
+        <text>7 ‘SHADY’ TREE</text>
+      </navLabel>
+      <content src="20170328-e_split_004.html#calibre_toc_7"/>
+    </navPoint>
+    <navPoint id="u763Cs8oewTIUeRy9NlrDSE" playOrder="8">
+      <navLabel>
+        <text>8 THE EYE THAT NEVER SLEEPS</text>
+      </navLabel>
+      <content src="20170328-e_split_004.html#calibre_toc_8"/>
+    </navPoint>
+    <navPoint id="uVDlP75OXNulCpUaj6c954G" playOrder="9">
+      <navLabel>
+        <text>9 BITTER CHAMPAGNE</text>
+      </navLabel>
+      <content src="20170328-e_split_004.html#calibre_toc_9"/>
+    </navPoint>
+    <navPoint id="uxbFtIqpclPe8dVjXwCDTcB" playOrder="10">
+      <navLabel>
+        <text>10 STUDILLAC TO SARATOGA</text>
+      </navLabel>
+      <content src="20170328-e_split_004.html#calibre_toc_10"/>
+    </navPoint>
+    <navPoint id="uCZQCx5Lps4RJVtFAvG59UD" playOrder="11">
+      <navLabel>
+        <text>11 SHY SMILE</text>
+      </navLabel>
+      <content src="20170328-e_split_004.html#calibre_toc_11"/>
+    </navPoint>
+    <navPoint id="urSMivrCAe6dd5k6AFAXMTD" playOrder="12">
+      <navLabel>
+        <text>12 THE PERPETUITIES</text>
+      </navLabel>
+      <content src="20170328-e_split_004.html#calibre_toc_12"/>
+    </navPoint>
+    <navPoint id="uYym9QbbgcaY2vDAn94HjA4" playOrder="13">
+      <navLabel>
+        <text>13 ACME MUD AND SULPHUR</text>
+      </navLabel>
+      <content src="20170328-e_split_005.html"/>
+    </navPoint>
+    <navPoint id="u59BFDUHkA3salM9tnhPwI5" playOrder="14">
+      <navLabel>
+        <text>14 “WE DON’T LIKE MISTAKES”</text>
+      </navLabel>
+      <content src="20170328-e_split_005.html#calibre_toc_14"/>
+    </navPoint>
+    <navPoint id="uQUYEB388S7WS9cGQbOx9OC" playOrder="15">
+      <navLabel>
+        <text>15 RUE DE LA PAY</text>
+      </navLabel>
+      <content src="20170328-e_split_005.html#calibre_toc_15"/>
+    </navPoint>
+    <navPoint id="ufQqDpmlfIiOjcdDDudG3IB" playOrder="16">
+      <navLabel>
+        <text>16 THE TIARA</text>
+      </navLabel>
+      <content src="20170328-e_split_005.html#calibre_toc_16"/>
+    </navPoint>
+    <navPoint id="uMwaRynQpgH8Fc6ENfTLntF" playOrder="17">
+      <navLabel>
+        <text>17 THANKS FOR THE RIDE</text>
+      </navLabel>
+      <content src="20170328-e_split_005.html#calibre_toc_17"/>
+    </navPoint>
+    <navPoint id="u9T8YOdEl2OeAYo2eHdRUJ2" playOrder="18">
+      <navLabel>
+        <text>18 NIGHT FALLS IN THE PASSION PIT</text>
+      </navLabel>
+      <content src="20170328-e_split_005.html#calibre_toc_18"/>
+    </navPoint>
+    <navPoint id="uW4k2AVc9ygMSENuwYlLai6" playOrder="19">
+      <navLabel>
+        <text>19 SPECTREVILLE</text>
+      </navLabel>
+      <content src="20170328-e_split_005.html#calibre_toc_19"/>
+    </navPoint>
+    <navPoint id="uihUXD4phYzh7rsK9vbGnzF" playOrder="20">
+      <navLabel>
+        <text>20 FLAMES COMING OUT OF THE TOP</text>
+      </navLabel>
+      <content src="20170328-e_split_005.html#calibre_toc_20"/>
+    </navPoint>
+    <navPoint id="utTJ8wAnddeBVH2I4UJWI38" playOrder="21">
+      <navLabel>
+        <text>21 “NOTHING PROPINKS LIKE PROPINQUITY”</text>
+      </navLabel>
+      <content src="20170328-e_split_005.html#calibre_toc_21"/>
+    </navPoint>
+    <navPoint id="uWQ8u3vO7xE4fE5YuYWdwfE" playOrder="22">
+      <navLabel>
+        <text>22 LOVE AND SAUCE BÉARNAISE</text>
+      </navLabel>
+      <content src="20170328-e_split_005.html#calibre_toc_22"/>
+    </navPoint>
+    <navPoint id="uWUrOoZG6ULhlFmXu52qov3" playOrder="23">
+      <navLabel>
+        <text>23 THE JOB COMES SECOND</text>
+      </navLabel>
+      <content src="20170328-e_split_005.html#calibre_toc_23"/>
+    </navPoint>
+    <navPoint id="u3JwDNCk5uqd69AsE8cixN6" playOrder="24">
+      <navLabel>
+        <text>24 DEATH IS SO PERMANENT</text>
+      </navLabel>
+      <content src="20170328-e_split_005.html#calibre_toc_24"/>
+    </navPoint>
+    <navPoint id="uuZIPfKYHNlxH4XHl5BDXs3" playOrder="25">
+      <navLabel>
+        <text>25 THE PIPELINE CLOSES</text>
+      </navLabel>
+      <content src="20170328-e_split_005.html#calibre_toc_25"/>
+    </navPoint>
+  </navMap>
+</ncx>

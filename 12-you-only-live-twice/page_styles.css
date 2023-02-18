@@ -1,0 +1,14 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "n";
+    font-style: normal;
+    src: url(font-kranky.ttf)
+    }
+@font-face {
+    font-family: "t";
+    font-style: normal;
+    src: url(font-macondo_swash_caps.ttf)
+    }
