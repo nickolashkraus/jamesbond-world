@@ -13,21 +13,21 @@
 
 # Map of download URLs -> EPUB filenames
 MAP=(
-  'https://www.fadedpage.com/link.php?file=20151102.epub,01-casino-royale.epub'
-  'ttps://www.fadedpage.com/link.php?file=20151111.epub,02-live-and-let-die.epubh'
-  'https://www.fadedpage.com/link.php?file=20150804.epub,03-moonraker.epub'
-  'https://www.fadedpage.com/link.php?file=20170328.epub,04-diamonds-are-forever.epub'
-  'https://www.fadedpage.com/link.php?file=20160104.epub,05-from-russia-with-love.epub'
-  'https://www.fadedpage.com/link.php?file=20170725.epub,06-dr-no.epub'
-  'https://www.fadedpage.com/link.php?file=20160105.epub,07-goldfinger.epub'
-  'https://www.fadedpage.com/link.php?file=20170435.epub,08-for-your-eyes-only.epub'
-  'https://www.fadedpage.com/link.php?file=20191233.epub,09-thunderball.epub'
-  'https://www.fadedpage.com/link.php?file=20151114.epub,10-the-spy-who-loved-me.epub'
-  'https://www.fadedpage.com/link.php?file=20180448.epub,11-on-her-majestys-secret-service.epub'
-  'https://www.fadedpage.com/link.php?file=20171118.epub,12-you-only-live-twice.epub'
-  'https://www.fadedpage.com/link.php?file=20180848.epub,13-the-man-with-the-golden-gun.epub'
-  'https://www.fadedpage.com/link.php?file=20190516.epub,14-octopussy.epub'
-  'https://www.fadedpage.com/link.php?file=20190513.epub,15-the-living-daylights.epub'
+  'https://www.fadedpage.com/link.php?file=20151102.epub,01-james-bond.epub'
+  'https://www.fadedpage.com/link.php?file=20151111.epub,02-james-bond.epub'
+  'https://www.fadedpage.com/link.php?file=20150804.epub,03-james-bond.epub'
+  'https://www.fadedpage.com/link.php?file=20170328.epub,04-james-bond.epub'
+  'https://www.fadedpage.com/link.php?file=20160104.epub,05-james-bond.epub'
+  'https://www.fadedpage.com/link.php?file=20170725.epub,06-james-bond.epub'
+  'https://www.fadedpage.com/link.php?file=20160105.epub,07-james-bond.epub'
+  'https://www.fadedpage.com/link.php?file=20170435.epub,08-james-bond.epub'
+  'https://www.fadedpage.com/link.php?file=20191233.epub,09-james-bond.epub'
+  'https://www.fadedpage.com/link.php?file=20151114.epub,10-james-bond.epub'
+  'https://www.fadedpage.com/link.php?file=20180448.epub,11-james-bond.epub'
+  'https://www.fadedpage.com/link.php?file=20171118.epub,12-james-bond.epub'
+  'https://www.fadedpage.com/link.php?file=20180848.epub,13-james-bond.epub'
+  'https://www.fadedpage.com/link.php?file=20190516.epub,14-james-bond.epub'
+  'https://www.fadedpage.com/link.php?file=20190513.epub,15-james-bond.epub'
 )
 
 for elem in "${MAP[@]}"; do
