@@ -1,5 +1,14 @@
 # History
 
+## 2023-02-23
+
+* Modify covers for EPUB files.
+
+```bash
+$ ./scripts/003-covers
+...
+```
+
 ## 2023-02-17
 
 * Download original EPUB files from https://www.fadedpage.com.

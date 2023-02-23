@@ -1,0 +1,21 @@
+#!/bin/bash
+#
+# DESCRIPTION
+# Modify covers for EPUB files.
+#
+# USAGE
+#
+#   003-covers
+
+for f in *.epub; do
+  dir=$(basename "${f}" .epub)
+  # Remove cover1.jpg files.
+  find . -type f -name "cover1.jpg" -delete
+  # Find and replace refereces to 'cover1.jpg'.
+  grep -r -l 'cover1.jpg' "${dir}" | xargs gsed -i "s/cover1.jpg/cover.jpg/g"
+  # Copy new covers to 'cover.jpg'.
+  cp "covers/${dir}.jpg" "${dir}/cover.jpg"
+done
+
+# Rebuild EPUB files.
+./scripts/002-zip

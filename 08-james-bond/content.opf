@@ -18,7 +18,7 @@
     <dc:title>For Your Eyes Only</dc:title>
   </metadata>
   <manifest>
-    <item href="cover1.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
     <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
     <item href="20170435-e_split_000.html" id="html13" media-type="application/xhtml+xml"/>
     <item href="20170435-e_split_001.html" id="html12" media-type="application/xhtml+xml"/>

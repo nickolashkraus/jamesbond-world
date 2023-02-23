@@ -19,7 +19,7 @@
     <meta name="cover" content="cover"/>
   </metadata>
   <manifest>
-    <item id="cover" href="cover1.jpg" media-type="image/jpeg"/>
+    <item id="cover" href="cover.jpg" media-type="image/jpeg"/>
     <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
     <item id="html27" href="20151111-e_split_000.html" media-type="application/xhtml+xml"/>
     <item id="html26" href="20151111-e_split_001.html" media-type="application/xhtml+xml"/>
