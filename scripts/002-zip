@@ -8,6 +8,7 @@
 #   002-zip
 
 for f in *.epub; do
+  rm -f "${f}"
   dir=$(basename "${f}" .epub)
   pushd "${dir}" >/dev/null || exit
   # NOTE: The mimetype file must be the first file in the archive.
