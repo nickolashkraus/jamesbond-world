@@ -1,0 +1,30 @@
+#!/bin/bash
+#
+# DESCRIPTION
+# Copy shared files.
+#
+# USAGE
+#
+#   004-shared
+#
+# ADDITIONAL INFORMATION
+# This script uses `tidy` to validate, correct, and pretty-print files.
+# See the `tidy` man page for documentation
+
+# Run `tidy` on files in shared/.
+tidy -i -m -xml -wrap 80 'shared/META-INF/container.xml'
+tidy -i -m -xml -wrap 80 'shared/titlepage.xhtml'
+
+for f in *.epub; do
+  dir=$(basename "${f}" .epub)
+  # Run `tidy`. See the `tidy` man page for documentation
+  # Replace META-INF/ directory.
+  rm -rf "${dir}/META-INF/" && cp -R 'shared/META-INF' "${dir}"
+  # Replace mimetype file.
+  rm "${dir}/mimetype" && cp 'shared/mimetype' "${dir}"
+  # Replace titlepage.xhtml file.
+  rm "${dir}/titlepage.xhtml" && cp 'shared/titlepage.xhtml' "${dir}"
+done
+
+# Rebuild EPUB files.
+./scripts/002-zip

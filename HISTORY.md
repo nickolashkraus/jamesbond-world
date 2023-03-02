@@ -1,5 +1,14 @@
 # History
 
+## 2023-03-02
+
+* Aggregate and copy shared files.
+
+```bash
+$ ./scripts/004-shared
+...
+```
+
 ## 2023-02-23
 
 * Modify covers for EPUB files.
