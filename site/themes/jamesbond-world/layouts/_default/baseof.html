@@ -1,10 +1,19 @@
+<!--
+    baseof.html
+
+    Documentation:
+      * https://gohugo.io/templates/base
+-->
+
 <!DOCTYPE html>
-<html>
+<html lang="en">
     {{- partial "head.html" . -}}
     <body>
         {{- partial "header.html" . -}}
-        <div id="content">
-        {{- block "main" . }}{{- end }}
+        <div class="container">
+            <div class="wrapper">
+                Hello, World!
+            </div>
         </div>
         {{- partial "footer.html" . -}}
     </body>
