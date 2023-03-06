@@ -11,6 +11,8 @@
 # Faded Page is an archive of eBooks that are provided completely free to
 # everyone.
 
+EPUBS_DIR='site/static/epubs'
+
 # Map of download URLs -> EPUB filenames
 MAP=(
   'https://www.fadedpage.com/link.php?file=20151102.epub,01-james-bond.epub'
@@ -41,6 +43,6 @@ for elem in "${MAP[@]}"; do
     esac
   done < <(curl --silent --head --location "${url}")
   PHPSESSID="${SET_COOKIE#*PHPSESSID=}";PHPSESSID="${PHPSESSID%;*}"
-  curl --silent -X GET -L "${url}" -o "${filename}" \
+  curl --silent -X GET -L "${url}" -o "${EPUBS_DIR}/${filename}" \
     -H "Cookie: PHPSESSID=${PHPSESSID}"
 done
