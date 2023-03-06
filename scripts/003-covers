@@ -7,14 +7,16 @@
 #
 #   003-covers
 
-for f in *.epub; do
+EPUBS_DIR='site/static/epubs'
+
+for f in "${EPUBS_DIR}"/*.epub; do
   dir=$(basename "${f}" .epub)
   # Remove cover1.jpg files.
-  find . -type f -name "cover1.jpg" -delete
+  find "site/content/${dir}" -type f -name "cover1.jpg" -delete
   # Find and replace refereces to 'cover1.jpg'.
-  grep -r -l 'cover1.jpg' "${dir}" | xargs gsed -i "s/cover1.jpg/cover.jpg/g"
+  grep -r -l 'cover1.jpg' "site/content/${dir}" | xargs gsed -i "s/cover1.jpg/cover.jpg/g"
   # Copy new covers to 'cover.jpg'.
-  cp "covers/${dir}.jpg" "${dir}/cover.jpg"
+  cp "site/static/covers/${dir}.jpg" "site/content/${dir}/cover.jpg"
 done
 
 # Rebuild EPUB files.
