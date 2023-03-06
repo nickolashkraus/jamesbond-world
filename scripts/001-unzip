@@ -7,8 +7,10 @@
 #
 #   001-unzip
 
-for f in *.epub; do
+EPUBS_DIR='site/static/epubs'
+
+for f in "${EPUBS_DIR}"/*.epub; do
   dir=$(basename "${f}" .epub)
-  rm -rf "${dir}"
-  unzip "${f}" -d "${dir}"
+  rm -rf "site/content/${dir}"
+  unzip "${f}" -d "site/content/${dir}"
 done
