@@ -2,6 +2,14 @@
 
 ## 2023-03-03
 
+* Moved EPUB files and accompanying directories to `site/`:
+  * `${file}` >>> `site/static/epubs/`
+  * `${dir}` >>> `site/content/`
+
+**NOTE**: `covers/` directory moved to `site/static/covers/`.
+
+## 2023-03-03
+
 * Add Bootstrap v5.2.3
 
 ```bash
