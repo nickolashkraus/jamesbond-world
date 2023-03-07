@@ -11,19 +11,25 @@
 # This script uses `tidy` to validate, correct, and pretty-print files.
 # See the `tidy` man page for documentation
 
+CONTENT_DIR='site/content'
+EPUBS_DIR='site/static/epubs'
+
 # Run `tidy` on files in shared/.
 tidy -i -m -xml -wrap 80 'shared/META-INF/container.xml'
 tidy -i -m -xml -wrap 80 'shared/titlepage.xhtml'
 
-for f in *.epub; do
+for f in "${EPUBS_DIR}"/*.epub; do
   dir=$(basename "${f}" .epub)
   # Run `tidy`. See the `tidy` man page for documentation
   # Replace META-INF/ directory.
-  rm -rf "${dir}/META-INF/" && cp -R 'shared/META-INF' "${dir}"
+  rm -rf "${CONTENT_DIR}/${dir}/META-INF/" \
+    && cp -R 'shared/META-INF' "${CONTENT_DIR}/${dir}"
   # Replace mimetype file.
-  rm "${dir}/mimetype" && cp 'shared/mimetype' "${dir}"
+  rm "${CONTENT_DIR}/${dir}/mimetype" \
+    && cp 'shared/mimetype' "${CONTENT_DIR}/${dir}"
   # Replace titlepage.xhtml file.
-  rm "${dir}/titlepage.xhtml" && cp 'shared/titlepage.xhtml' "${dir}"
+  rm "${CONTENT_DIR}/${dir}/titlepage.xhtml" \
+    && cp 'shared/titlepage.xhtml' "${CONTENT_DIR}/${dir}"
 done
 
 # Rebuild EPUB files.

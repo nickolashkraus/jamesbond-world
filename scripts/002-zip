@@ -7,13 +7,14 @@
 #
 #   002-zip
 
+CONTENT_DIR='site/content'
 EPUBS_DIR='site/static/epubs'
 
 for f in "${EPUBS_DIR}"/*.epub; do
   rm -f "${f}"
   dir=$(basename "${f}" .epub)
-  pushd "site/content/${dir}" >/dev/null || exit
+  pushd "${CONTENT_DIR}/${dir}" >/dev/null || exit
   # NOTE: The mimetype file must be the first file in the archive.
-  zip -rX "../../static/epubs/$(basename "$(realpath .)").epub" mimetype $(ls | xargs echo | sed 's/mimetype//g')
+  zip -rX "../../../${EPUBS_DIR}/$(basename "$(realpath .)").epub" mimetype $(ls | xargs echo | sed 's/mimetype//g')
   popd >/dev/null || exit
 done
